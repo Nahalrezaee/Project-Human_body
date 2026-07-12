@@ -1,4 +1,4 @@
-# 🧬 Project Human
+# 🧬 Project Human body
 
 Project Human is a long-term scientific learning project focused on understanding the human body through biology, programming, and mathematical thinking.
 
